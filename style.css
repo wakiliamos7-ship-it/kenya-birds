@@ -79,3 +79,11 @@ footer {
   font-size: 1.3rem;
   margin: 15px 0 8px;
 }
+.credit a {
+  color: #2f5d3a;
+  text-decoration: none;
+}
+
+.credit a:hover {
+  text-decoration: underline;
+}
