@@ -87,3 +87,8 @@ footer {
 .credit a:hover {
   text-decoration: underline;
 }
+footer {
+  background-color: #2f5d3a;
+  color: white;
+  margin-top: 30px;
+}
