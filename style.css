@@ -52,3 +52,16 @@ footer {
   text-align: center;
   padding: 20px;
 }
+  #about {
+  background-color: white;
+  border-left: 6px solid #2f5d3a;
+  border-radius: 10px;
+  padding: 20px 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+#about h2 {
+  margin-top: 0;
+  color: #2f5d3a;
+}
